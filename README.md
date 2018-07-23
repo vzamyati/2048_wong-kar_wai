@@ -45,7 +45,11 @@ git clone https://gitlab.com/omentes/2048-rushes-wong_kar_wai
 cd 2048-rushes-wong_kar_wai
 make
 ```
+<img src="https://github.com/vzamyati/2048_wong-kar_wai/blob/master/pictures/Screen%20Shot%202018-07-23%20at%203.15.57%20PM.png?raw=true" width="400" height="400" /> <img src="https://github.com/vzamyati/2048_wong-kar_wai/blob/master/pictures/Screen%20Shot%202018-07-23%20at%203.27.12%20PM.png?raw=true" width="400" height="400" />
+<img src="https://github.com/vzamyati/2048_wong-kar_wai/blob/master/pictures/Screen%20Shot%202018-07-23%20at%203.17.45%20PM.png?raw=true" width="400" height="400" /> <img src="https://github.com/vzamyati/2048_wong-kar_wai/blob/master/pictures/Screen%20Shot%202018-07-23%20at%203.28.18%20PM.png?raw=true" width="400" height="400" />
+<img src="https://github.com/vzamyati/2048_wong-kar_wai/blob/master/pictures/Screen%20Shot%202018-07-23%20at%203.19.46%20PM.png?raw=true" width="400" height="400" />
 ## Built With
+
 
 * [Ncurses](https://www.gnu.org/software/ncurses/) - ncurses (new curses) is a programming library providing an application programming interface (API) that allows the programmer to write text-based user interfaces in a terminal-independent manner. It is a toolkit for developing "GUI-like" application software that runs under a terminal emulator. It also optimizes screen changes, in order to reduce the latency experienced when using remote shells.
 ```
