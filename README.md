@@ -2,7 +2,7 @@
 
 # DESCRIPTION
 
-Educational project in School 42 (UNIT Factory Kiev).
+Educational project in School 42 (UNIT Factory Kyiv).
 Task: Write replication of the game 2048 in the C language for 48 hours. We with [apakhomo](https://gitlab.com/omentes/) ended for 13 hours.
 
 The game is written in C language with the use of the library ncurses.
@@ -54,9 +54,6 @@ apt-get install ncurses-dev
 
 ## Authors
 
-*  **Valeria Zamyatina** - [vzamyati](https://github.com/vzamyati/)
+*  **Valeriia Zamyatina** - [vzamyati](https://github.com/vzamyati/)
 *  **Artem Pakhomov** - [apakhomo](https://gitlab.com/omentes/)
 
-## License
-
-This project is licensed under the MIT License
